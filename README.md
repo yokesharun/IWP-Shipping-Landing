@@ -12,9 +12,9 @@ Developed and maintained by [Arun Yokesh](https://www.facebook.com/ayokesh).
 
 IWP Landing Page is developed and maintained by 
 
-[Facebook @ Arun Yokesh](https://www.facebook.com/ayokesh)
-[Medium @ Arun Yokesh](https://medium.com/@arunyokesh)
-[Twitter @ Arun Yokesh](https://twitter.com/its_arunyokesh)
+* [Facebook @ Arun Yokesh](https://www.facebook.com/ayokesh)
+* [Medium @ Arun Yokesh](https://medium.com/@arunyokesh)
+* [Twitter @ Arun Yokesh](https://twitter.com/its_arunyokesh)
 
 Contributions are appreciated!
 
