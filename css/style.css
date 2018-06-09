@@ -8,6 +8,7 @@ body {
 p {
     line-height: 28px;
     font-size: 16px;
+    color: #696969;
 }
 .section {
     padding: 4% 4%;
@@ -143,7 +144,6 @@ p {
     margin: 0.5em auto;
 }
 .second-section-first p {
-    color: #696969;
     max-width: 70%;
     margin: 1% auto;
 }
@@ -169,7 +169,6 @@ p {
     font-weight: 700;
 }
 .block-content p {
-    color: #696969;
     font-size: 14px;
 }
 .third-section {
@@ -198,4 +197,70 @@ p {
 }
 .third-section-first {
     padding: 3%;
+}
+.fourth-section {
+    background-color: #333333;
+    height: 15%;
+}
+.section-column {
+    float: left;
+    width: 30%;
+    margin: 2% 1.5%;
+}
+.company-content {
+    padding-top: 5%;
+}
+.news-heading {
+    color: #FFFFFF;
+    font-size: 1.5em;
+}
+.news-list {
+    list-style-type: none;
+    padding: 0;
+}
+.news-list li {
+    list-style-type: none;
+}
+.news-block {
+    display: inline-block;
+    padding-top: 3%;
+}
+.news-block p {
+    float: left;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 24px;
+}
+.news-block span {
+    float: left;
+    font-size: 12px;
+    color: #696969;
+}
+.company-details {
+    padding-top: 2%;
+}
+.footer-strip {
+    height: 2%;
+    background-color: #000000;
+    position: relative;
+}
+.footer-first {
+    width: 50%;
+}
+.footer-last {
+    color: #696969;
+    padding-top: 0.8%;
+    float: right;
+    padding-right: 8%;
+}
+.footer-last i {
+    margin-left: 10px;
+}
+.footer-first p {
+    margin: 0;
+    color: #696969;
+    padding-top: 0.8%;
+    padding-left: 10%;
+    float: left;
 }
